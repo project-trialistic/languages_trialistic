@@ -1,0 +1,85 @@
+Alpha: Alpha
+Installation: |
+  ╔════════════════════════════════╗
+  ║          Installation          ║
+  ║    Enter "Done" to complete    ║
+  ║    Enter "Cancel" to abort     ║
+  ║ Maximum number of subjects: 25 ║
+  ╚════════════════════════════════╝
+Done: Done
+Cancel: Cancel
+Canceled: Canceled
+eCancel: Nothing to cancel
+NotSoon: Not soon
+eTooLong: The length exceeded 19 characters
+eTooLong2: The length exceeded 99 characters
+eEmpty: The name cannot be empty or start with a space
+eMaxSubj: The maximum number of subjects has been reached
+eWasSubj: This subject has already been used
+Pair: Subject
+eNotANumber: Value must be a number
+eNotInRange: Number out of range
+InstallationCanceled: Installation canceled
+SubjList: Subjects list
+Homework: Homework
+Timetable: Timetable
+Date: Date
+Task: Task
+Subj: Pair
+Subj1: 1-st half-pair
+Subj2: 2-nd half-pair
+Correct: Correct
+TableInstallation: |
+  To cancel, enter "Cancel"
+  To correct the last pair entered, type "Correct"
+  To put 2 different half-pairs, enter "+" between the two subjects
+  To put pairs in "Под" put "*" between two subjects
+  Example: n1+n2*n3+n4
+Settings: |
+  SETTINGS
+  Write parameter number to switch
+Setting0: Delete all save files from device
+Setting2: Monochrome mode
+Setting1: Language
+Setting3: Alternative console cleanup
+Delete: Delete
+Delete1: |
+  Are you sure want to delete all save files?
+  It cannot be undone!
+Delete2: To confirm, write "Delete"
+eCommand: This command does not exist
+Task1: You enter a task for
+Task2: To cancel, enter "Cancel"
+Commands0: |
+  All commands in Homework:
+  0  -  {Settings}
+  1.# - [Edit task]
+  2  -  [Edit subjects list]
+  3  -  [Exit]
+Commands1: |
+  All commands in Timetable:
+   0  -  {Settings}
+   1.# - [Put a replacement] (# - day number)
+   2  -  [Edit timetable]
+   3  -  {Exit}
+Replacement1: You enter replacements for the day "
+Replacement2: |
+  "
+  To return subject from main table don't enter anything
+  If the title is longer than 19 characters, it will be cut off
+  To put 2 different half-pairs, enter "+" between the two subjects
+  To cancel, enter "Cancel"
+  
+  New replacements:
+Today: Today
+Tomorrow: Tomorrow
+Above: Above
+Under: Under
+True: Enabled
+False: Disabled
+Passed: Passed
+WeekdayS: [ 'Mon', 'Tue', 'Wen', 'Thu', 'Fri', 'Sat', 'Sun' ]
+WeekdayB: [ 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday' ]
+MonthS: [ 'jan', 'feb', 'mar', 'apr', 'may', 'jun', 'jul', 'aug', 'sep', 'oct', 'nov', 'dec' ]
+Performance: Performance
+NoGroup: No group
