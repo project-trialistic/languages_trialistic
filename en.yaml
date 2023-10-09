@@ -85,3 +85,15 @@ Performance: Performance
 NoGroup: No group
 DefaultTab: Default tab
 PastDays: Past Days
+Weekend: Weekend
+MustUpdateLang: A language update is required. Press Enter to download
+Downloading: Downloading
+Downloaded: Downloaded
+NotDownloaded: Not downloaded
+Error: Error
+Checking: Checking
+UpdateAvailable: Program update available
+AlreadyUpdated: You have the latest version of the program installed
+LangUpdateAvailable: Language update available
+ConfirmLangUpdate: Press Enter to download language updates
+ConfirmNoUpdates: Press Enter to close the information

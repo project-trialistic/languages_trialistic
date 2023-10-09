@@ -85,3 +85,15 @@ Performance: Производительность
 NoGroup: Без группы
 DefaultTab: Вкладка по умолчанию
 PastDays: Прошедшие дни
+Weekend: Выходной
+MustUpdateLang: Требуется обновление языка. Нажмите Enter, чтобы скачать
+Downloading: Скачивание
+Downloaded: Скачан
+NotDownloaded: Не скачан
+Error: Ошибка
+Checking: Проверка
+UpdateAvailable: Доступно обновление программы
+AlreadyUpdated: У вас установлена последняя версия программы
+LangUpdateAvailable: Доступно обновление языка
+ConfirmLangUpdate: Нажмите Enter для загрузки обновлений языков
+ConfirmNoUpdates: Нажмите Enter для закрытия информации
