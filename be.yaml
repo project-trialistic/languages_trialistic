@@ -93,7 +93,8 @@ NotDownloaded: Не запампаваны
 Error: Памылка
 Checking: Праверка
 UpdateAvailable: Даступна абнаўленне праграмы
-AlreadyUpdated: У вас ўстаноўлена апошняя версія праграмы
+AlreadyUpdated: У вас ўстаноўлена апошняя версiя праграмы
 LangUpdateAvailable: Даступна абнаўленне мовы
-ConfirmLangUpdate: Націсніце Enter для загрузкі абнаўленняў моў
-ConfirmNoUpdates: Націсніце Enter для закрыцця інфармацыі
+ConfirmLangUpdate: Нацiснiце Enter для загрузкi абнаўленняў моў
+ConfirmNoUpdates: Нацiснiце Enter для закрыцця iнфармацыi
+CheckForUpdates: Праверыць абнаўлення
