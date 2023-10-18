@@ -49,19 +49,20 @@ Delete1: |
   It cannot be undone!
 Delete2: To confirm, write "Delete"
 eCommand: This command does not exist
-Task2: To cancel, enter "Cancel"
+ToCancel: To cancel, enter "Cancel"
 Commands0: |
-  All commands in Homework:
+  All commands in the tab "Homework":
   0  -  {Settings}
   1.# - [Edit task]
   2  -  [Edit subjects list]
-  3  -  [Exit]
+  3  -  [Set the number of pairs]
+  Q  -  [Exit]
 Commands1: |
-  All commands in Timetable:
+  All commands in the tab "Timetable":
    0  -  {Settings}
    1.# - [Put a replacement] (# - day number)
    2  -  [Edit timetable]
-   3  -  {Exit}
+   Q  -  {Exit}
 Replacement1: You enter replacements for the day "
 Replacement2: |
   "
@@ -100,3 +101,16 @@ ConfirmNoUpdates: Press Enter to close the information
 CheckForUpdates: Check for updates
 PrintDates: Print all dates for an subject
 SwapAbove: Swap "Above/Under"
+DateFormat: Date format
+SettingDateFormat: |
+  $1 - Day of the week
+  $2 - Day of the month
+  $3 - Month
+NewFormat: New format
+CurrentFormat: Current format
+Remained: Remained
+PassedType: Type of pair counter
+Commands2: |
+  All commands in the tab "Past Days":
+   1 - [Filter by subject]
+InstallingPairCount: Setting the number of pairs
