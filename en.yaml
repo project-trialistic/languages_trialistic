@@ -1,4 +1,4 @@
-LANG_VERSION: 1.0
+LANG_VERSION: 1.1
 Alpha: Alpha
 Installation: |
   ╔════════════════════════════════╗
@@ -42,7 +42,6 @@ Settings: |
 Setting0: Delete all save files from device
 Setting2: Monochrome mode
 Setting1: Language
-Setting3: Alternative console cleanup
 Delete: Delete
 Delete1: |
   Are you sure want to delete all save files?
@@ -100,7 +99,7 @@ ConfirmLangUpdate: Press Enter to download language updates
 ConfirmNoUpdates: Press Enter to close the information
 CheckForUpdates: Check for updates
 PrintDates: Print all dates for an subject
-SwapAbove: Swap "Above/Under"
+SwapAbove: Swap "Above / Under"
 DateFormat: Date format
 SettingDateFormat: |
   $1 - Day of the week
@@ -109,7 +108,7 @@ SettingDateFormat: |
 NewFormat: New format
 CurrentFormat: Current format
 Remained: Remained
-PassedType: Type of pair counter
+PassedType: Type of number of pairs
 Commands2: |
   All commands in the tab "Past Days":
    1 - [Filter by subject]
